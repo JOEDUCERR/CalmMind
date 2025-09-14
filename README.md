@@ -1,4 +1,4 @@
-# 🌿 Therapy Bot
+# 🌿 CalmMind - Therapy Bot
 
 (No medical advice is provided. CalmMind is for emotional support and listening only.)
 
